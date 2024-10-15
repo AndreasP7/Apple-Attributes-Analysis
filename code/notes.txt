@@ -1,0 +1,6 @@
+TESTS:
+-t.test
+-wilcoxon
+-fisher's
+-chi squared
+-anova
